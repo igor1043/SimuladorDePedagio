@@ -1,5 +1,11 @@
 /*
 
+* Author:  Igor Vinicius Freitas de Souza
+* GitHub: https://github.com/igor1043
+* E-mail: igorviniciusfreitasouza@gmail.com
+
+
+pedagio e um programa em C ++ que simula um pedagio para carros e caminhoes.
 Programa em c++ que simula as transações de um pedágio. Programa apresenta o seguinte menu.
 
 1. registrar
